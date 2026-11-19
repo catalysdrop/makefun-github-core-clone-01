@@ -1,1 +1,16 @@
+# Dependencies and build output
+node_modules/
+dist/
+build/
+
+# Local-only scripts, logs and trial artefacts (never committed)
 .local/
+*.log
+*.tar.gz
+cassettes/
+
+# Editor and OS leftovers
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
