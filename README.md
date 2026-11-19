@@ -1,5 +1,9 @@
 # github-core-clone-01
 
+[![github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/catalysdrop/makefun-github-core-clone-01/rank.svg)](https://make.fun/bounty/github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/catalysdrop/makefun-github-core-clone-01/reward.svg)](https://make.fun/bounty/github-core-clone-01)
+
 A standalone GitHub-compatible git forge, built for [the contest](https://make.fun/bounty/github-core-clone-01):
 one Node process, stdlib only, no `git` binary, no outside service. It serves git smart HTTP
 (upload-pack v2/v0, receive-pack v0), REST v3, GraphQL v4 and an MCP endpoint, all on one in-memory
